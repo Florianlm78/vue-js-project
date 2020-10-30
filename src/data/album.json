@@ -1,0 +1,187 @@
+{
+    "name": "project",
+    "albums": [
+        {
+            "name": "La bonne école",
+            "artiste": "Demi Portion",
+            "dateSortie": "17/01/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/0f/86/b0/11568655/1507-1/tsp20191121173127/La-bonne-ecole.jpg",
+            "prix": 9.99
+        },
+
+        {
+            "name": "Les Derniers Salopards",
+            "artiste": "MAES",
+            "dateSortie": "17/01/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/7e/0b/b1/11602814/1507-1/tsp20191211155114/Les-derniers-salopards.jpg",
+            "prix": 12.98
+        },
+
+        {
+            "name": "MVP",
+            "artiste": "Mister V",
+            "dateSortie": "31/01/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/14/39/b1/11614484/1540-1/tsp20191213142154/MVP.jpg",
+            "prix": 16.26
+        },
+
+        {
+            "name": "Santé & Bonheur",
+            "artiste": "Kofs",
+            "dateSortie": "21/02/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/d9/e7/b2/11724761/1540-1/tsp20200213143139/Sante-et-Bonheur.jpg",
+            "prix": 15.18
+        },
+
+        {
+            "name": "Vox Cordis",
+            "artiste": "D.Ace",
+            "dateSortie": "28/02/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/cf/e7/b2/11724751/1507-1/tsp20200203170715/Vox-Cordis.jpg",
+            "prix": 14.01
+        },
+
+        {
+            "name": "Trinity",
+            "artiste": "Laylow",
+            "dateSortie": "28/02/2020",
+            "genre": "RAP",
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/71zqQLosx6L._SL1400_.jpg",
+            "prix": 15.54
+        },
+
+        {
+            "name": "Caliente",
+            "artiste": "Timal",
+            "dateSortie": "28/02/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/f8/5c/b2/11689208/1507-1/tsp20200204161146/Caliente.jpg",
+            "prix": 13.99
+        },
+
+        {
+            "name": "M.I.L.S 3",
+            "artiste": "Ninho",
+            "dateSortie": "13/03/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/b3/19/b3/11737523/1540-1/tsp20200309114200/M-I-L-S-3.jpg",
+            "prix": 10.19
+        },
+
+        {
+            "name": "Jok'Chirac",
+            "artiste": "Jok'Air",
+            "dateSortie": "20/03/2020",
+            "genre": "RAP",
+            "photo": "https://images.genius.com/b79684fe36aa99ebb60320382684c935.1000x1000x1.jpg",
+            "prix": 9.99
+        },
+
+        {
+            "name": "Synkinisi",
+            "artiste": "Bosh",
+            "dateSortie": "27/03/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/43/d9/bb/12310851/1507-1/tsp20200424105232/Synkinisi.jpg",
+            "prix": 10.48
+        },
+
+        {
+            "name": "Architecte",
+            "artiste": "DA Uzi",
+            "dateSortie": "03/04/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/40/32/b1/11612736/1507-1/tsp20200306105207/Architect.jpg",
+            "prix": 13.98
+        },
+
+        {
+            "name": "Midnight",
+            "artiste": "RIM'K",
+            "dateSortie": "10/04/2020",
+            "genre": "RAP",
+            "photo": "https://m.media-amazon.com/images/I/61JFOfUI8XL._SS500_.jpg",
+            "prix": 12.59
+        },
+
+        {
+            "name": "Vaillants",
+            "artiste": "YL",
+            "dateSortie": "17/04/2020",
+            "genre": "RAP",
+            "photo": "https://images.genius.com/9636127594de3f15014ba25e83f794bb.706x706x1.png",
+            "prix": 10.99
+        },
+
+        {
+            "name": "1990",
+            "artiste": "Demi Portion",
+            "dateSortie": "1/05/2020",
+            "genre": "RAP",
+            "photo": "https://m.media-amazon.com/images/I/71hEnsF+e+L._SS500_.jpg",
+            "prix": 14.99
+        },
+
+        {
+            "name": "Mistral",
+            "artiste": "Soso Manes",
+            "dateSortie": "05/06/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/04/a3/b4/11838212/1507-1/tsp20200304135102/Mistral.jpg",
+            "prix": 7.19
+        },
+
+
+        {
+            "name": "La machine",
+            "artiste": "JUL",
+            "dateSortie": "19/06/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/21/e1/bc/12378401/1540-1/tsp20200525171128/Nouvel-album-27-05-2020.jpg",
+            "prix": 15.18
+        },
+
+        {
+            "name": "Enna",
+            "artiste": "PLK",
+            "dateSortie": "29/08/2020",
+            "genre": "RAP",
+            "photo": "https://static.fnac-static.com/multimedia/Images/FR/NR/57/01/be/12452183/1520-1/tsp20200804104158/Enna-Coffret.jpg",
+            "prix": 16.99
+        },
+
+        {
+            "name": "LMF",
+            "artiste": "Freeze Corleone",
+            "dateSortie": "09/09/2020",
+            "genre": "RAP",
+            "photo": "https://pbs.twimg.com/media/Ef9ywNKXYAMkcB0.jpg",
+            "prix": 12.99
+        },
+
+        {
+            "name": "QALF",
+            "artiste": "Damso",
+            "dateSortie": "18/09/2020",
+            "genre": "RAP",
+            "photo": "https://images.genius.com/6fd31c8993a97f5851e5f9cfc7cbe5e8.1000x1000x1.jpg",
+            "prix": 15.99
+        },
+
+        {
+            "name": "13 organisé",
+            "artiste": "JUL",
+            "dateSortie": "09/10/2020",
+            "genre": "RAP",
+            "photo": "https://i.pinimg.com/474x/48/10/08/481008d2e0e8328955a356c46b725612.jpg",
+            "prix": 16.94 
+        }
+
+    ]
+
+}
